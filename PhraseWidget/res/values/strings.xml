@@ -1,0 +1,5 @@
+<resources>
+
+    <string name="app_name">PhraseWidget</string>
+    <string name="widget_text">Prueba</string>
+</resources>
